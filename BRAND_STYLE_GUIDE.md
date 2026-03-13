@@ -1,4 +1,4 @@
-# Jenn Gabel Real Estate — Brand Style Guide
+# Jenn Gabel Real Estate — Brand Style Guide social_posts folder
 *Reference for all social media templates and digital content*
 
 ---
