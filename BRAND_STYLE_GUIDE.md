@@ -170,4 +170,16 @@ Decorative divider — appears between sections on the website. Use in templates
 - NJ hashtags for NJ listings only — never mix with Philly
 
 ## Website
-`jenngabelrealestate.com`
+
+- ImageRatioRecommended pixels Max useful
+- P1 Banner2:1 1200 × 600 1080 × 540
+- P2 Photo A 1:1 800 × 800 600 × 600
+- P2 Photo B 2:1 800 × 400 600 × 300
+- P2 Photo C 2:1 800 × 400 600 × 300
+
+- Workflow from 4000px stock photo:
+
+- Crop to correct ratio first
+- Resize width to 1200px max (1000px is fine too)
+- Export as JPG, quality 80%
+- File size should land around 150–300KB per image — fast to load, fast to export
